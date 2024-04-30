@@ -1,6 +1,6 @@
-# Power Platform 活用ラボ ~ろここと学ぶ！SharePointリストの基本~
+# Power Platform 活用ラボ ～ろここと学ぶ！SharePointリストの基本～
 
-技術書店16で頒布する「Power Platform 活用ラボ ~ろここと学ぶ！SharePointリストの基本~」の原稿管理用リポジトリです。
+技術書店16で頒布する「Power Platform 活用ラボ ～ろここと学ぶ！SharePointリストの基本～」の原稿管理用リポジトリです。
 （紙の本は2024年5月26日(日)に開催される技術書店16オフラインイベントにて頒布予定です）
 
 ## 電子書籍（PDF）版について
