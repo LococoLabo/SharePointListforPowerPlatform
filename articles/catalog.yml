@@ -2,8 +2,15 @@ PREDEF:
   - preface.re
 
 CHAPS:
-  - article.re
-
+  - 00_Introduction.re
+  - 01_AboutSharePointList.re
+  - 02_Excel_and_SharePointList.re
+  - 03_PowerAutomate_and_SharePointList.re
+  - 04_PowerApps_and_SharePointList.re
+  - 05_PowerBI_and_SharePointList.re
+  - 06_Practical_Applications.re
+  - 07_Conclusion.re
+  
 APPENDIX:
 
 POSTDEF:
