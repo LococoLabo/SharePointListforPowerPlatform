@@ -2,6 +2,7 @@ PREDEF:
   - preface.re
 
 CHAPS:
+  - article.re
   - about_SharePointList.re
   - example_SharePointList.re 
   - view_SharePointList.re
